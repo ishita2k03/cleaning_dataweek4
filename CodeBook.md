@@ -69,13 +69,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-965d3dab7060.js"></script>
   
 
-  <title>datasciencecoursera/README.md at master · mGalarnyk/datasciencecoursera</title>
+  <title>datasciencecoursera/CodeBook.md at master · mGalarnyk/datasciencecoursera</title>
 
 
 
     
 
-  <meta name="request-id" content="E4D4:0E7F:1F6F08:2C519D:63864ECA" data-turbo-transient="true" /><meta name="html-safe-nonce" content="11c9b40f28af42c806a12b18e8e57f24c31d3f6cd03d2bc728f6bf3da9a5c002" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tR2FsYXJueWsvZGF0YXNjaWVuY2Vjb3Vyc2VyYS90cmVlL21hc3Rlci8zX0dldHRpbmdfYW5kX0NsZWFuaW5nX0RhdGEvcHJvamVjdHMiLCJyZXF1ZXN0X2lkIjoiRTRENDowRTdGOjFGNkYwODoyQzUxOUQ6NjM4NjRFQ0EiLCJ2aXNpdG9yX2lkIjoiNTI0NDA5Nzc3OTQ4OTgyNzk3MCIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="b4465a8bc9d18981004909f7be9229e19c6ad598b39e74394639fd6c8de3f6ba" data-turbo-transient="true" />
+  <meta name="request-id" content="E4D4:0E7F:1F6E88:2C50CE:63864EC6" data-turbo-transient="true" /><meta name="html-safe-nonce" content="11c9b40f28af42c806a12b18e8e57f24c31d3f6cd03d2bc728f6bf3da9a5c002" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tR2FsYXJueWsvZGF0YXNjaWVuY2Vjb3Vyc2VyYS90cmVlL21hc3Rlci8zX0dldHRpbmdfYW5kX0NsZWFuaW5nX0RhdGEvcHJvamVjdHMiLCJyZXF1ZXN0X2lkIjoiRTRENDowRTdGOjFGNkU4ODoyQzUwQ0U6NjM4NjRFQzYiLCJ2aXNpdG9yX2lkIjoiNTI0NDA5Nzc3OTQ4OTgyNzk3MCIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="7274940b01d7c3702db73d7948102d11ba320c8ada64576f0001d77ead8ffcd5" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:77424533" data-turbo-transient>
@@ -109,16 +109,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. - datasciencecoursera/README.md at master · mGalarnyk/datasciencecoursera">
+      <meta name="description" content="Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. - datasciencecoursera/CodeBook.md at master · mGalarnyk/datasciencecoursera">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/783a56dfc65bec346c2b367883de2fad74f3fe3b25ccab1e2aa96cc185403f9f/mGalarnyk/datasciencecoursera" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="datasciencecoursera/README.md at master · mGalarnyk/datasciencecoursera" /><meta name="twitter:description" content="Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. - datasciencecoursera/README.md at master · mGalarnyk/datasciencecoursera" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/783a56dfc65bec346c2b367883de2fad74f3fe3b25ccab1e2aa96cc185403f9f/mGalarnyk/datasciencecoursera" /><meta property="og:image:alt" content="Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. - datasciencecoursera/README.md at master · mGalarnyk/datasciencecoursera" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="datasciencecoursera/README.md at master · mGalarnyk/datasciencecoursera" /><meta property="og:url" content="https://github.com/mGalarnyk/datasciencecoursera" /><meta property="og:description" content="Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. - datasciencecoursera/README.md at master · mGalarnyk/datasciencecoursera" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/783a56dfc65bec346c2b367883de2fad74f3fe3b25ccab1e2aa96cc185403f9f/mGalarnyk/datasciencecoursera" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="datasciencecoursera/CodeBook.md at master · mGalarnyk/datasciencecoursera" /><meta name="twitter:description" content="Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. - datasciencecoursera/CodeBook.md at master · mGalarnyk/datasciencecoursera" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/783a56dfc65bec346c2b367883de2fad74f3fe3b25ccab1e2aa96cc185403f9f/mGalarnyk/datasciencecoursera" /><meta property="og:image:alt" content="Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. - datasciencecoursera/CodeBook.md at master · mGalarnyk/datasciencecoursera" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="datasciencecoursera/CodeBook.md at master · mGalarnyk/datasciencecoursera" /><meta property="og:url" content="https://github.com/mGalarnyk/datasciencecoursera" /><meta property="og:description" content="Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. - datasciencecoursera/CodeBook.md at master · mGalarnyk/datasciencecoursera" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/79622989/ws?session=eyJ2IjoiVjMiLCJ1Ijo3OTYyMjk4OSwicyI6OTkwNDk3MDU0LCJjIjoxNjY3NTU4MDk4LCJ0IjoxNjY5NzQ2Mzg1fQ==--7d2e6dff657bab3b99a4423c5731a842410c45b1ae8e5df6fd60ea3eeda8ef02" data-refresh-url="/_alive" data-session-id="dde17b701205488f9f966edd48af7f2fcbf23559c6df597913f9df85a432a15f">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/79622989/ws?session=eyJ2IjoiVjMiLCJ1Ijo3OTYyMjk4OSwicyI6OTkwNDk3MDU0LCJjIjozNTYxODU3OTcyLCJ0IjoxNjY5NzQ2Mzc4fQ==--17cc78c9fe48609170be40d5e23b4891cd1ede4a6df569d8d1071124d37d24e6" data-refresh-url="/_alive" data-session-id="dde17b701205488f9f966edd48af7f2fcbf23559c6df597913f9df85a432a15f">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -148,7 +148,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="s6WVUzaXZXVHjiLo5l9iKf3LlyMCd3uRHTSIzElpmRr0l_hkjvRyq7Zkl65STfmGQlQ8egbbi2u7guP2EzT5mw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="hZzS9WxJCqYm577ZLWTXNxFg6U99R44OA9nqdkIiVeHCrr_C1CodeNcNC5-ZdkyYrv9CFnnrfvSlb4FMGH81YA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ishita2k03&quot;,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="caf80a91d07b8a4dbe4f5c1a9a296b23904b600b983fe8bee9a25aaf74f28e4b" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ishita2k03&quot;,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="1de8e7fa2b782161dcc164cd300cbcf4eabafdba6afcf6bb71abb0ab47e4b463" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/79622989?s=40&amp;v=4" width="20" height="20" alt="@ishita2k03" />
       ishita2k03
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UaUrZNh2qDA0FThZooLEjV2zYw6ZyC0sVdVYi90Hab72wHQ9MjSAeljdKJ6XymiIoQG8mF0e7JvXlJCsMQu2zw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ETA4Zb95uMc9Et1mam-qxFvBH_EGmuCEyklVk1gK6pu2VWc8VTuQjVHazaFfJwbBp3PAZ8JMITNICJ20tAY16g" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Nzk2MjI5ODkiLCJ0IjoxNjY5NzQ2Mzg1fQ==--ee812c68ae5a91e3d252149c380eb17a0c37a00f2138aab3ba6fbd079a18a97b" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Nzk2MjI5ODkiLCJ0IjoxNjY5NzQ2Mzc4fQ==--290054d22946f828ee1727ecc382c0413ec7a20cb2a80c3ac0f0417ef265061d" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md
+      return-to=/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md
       user-id="79622989"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1605,7 +1605,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="2018d91d710d991fefe18bd30a2b9bf852164a922a1d30100f8fcf99c9ff3ef8" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="6fde4a30668b562f2af302b2ad0c4d8051cb5e17db3c341e9289e9a4597b53ab" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1657,7 +1657,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MQZgxqkerhGjDxPecyTbH7MbJroj8zH7BnC4-D1cJXFnH-9KT_IOyk_RnvepWf5ngc0xztGMRg2t8e6VL0Euzw" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7nFNbeu9jBC9iA2CxtnSQAmB_cewk0V7UXD9m_LFoA-4aMLhDVEsy1FWgKscpPc4O1fqs0LsMo368av24NirsQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="77424533">
 
@@ -1785,7 +1785,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZVfzW7-eH5I7RMY7sn_x0Kt90dKK29_kAT_BQ4-6y1czTnzXWXK_SdeaSxJoAtSomavGpnikqBKqvpcunafA6Q" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mt4eF_rvT95PgEkcggVI3Szn2DME179CAF-Q3GxdxFjMx5GbHAPvBaNexDVYeG2lHjHPR_aoyLSr3saxfkDP5g" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="77424533">
 
@@ -1936,7 +1936,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/mGalarnyk/datasciencecoursera/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="f9e94f3cb48a0dce064ced58227c3c9c8e70990cdb1668dd062c647a5401f855" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of mGalarnyk/datasciencecoursera" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/mGalarnyk/datasciencecoursera/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="d2b35570dd76a49e50cfaee0a75b79aeaccae4ae7af991f1a4f1aeea2ccf5e6a" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of mGalarnyk/datasciencecoursera" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="2,043" data-view-component="true" class="Counter">2k</span>
@@ -1954,13 +1954,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-6e7d4d">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-62805f">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-6e7d4d"
+        id="filter-menu-62805f"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2002,10 +2002,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/mGalarnyk/datasciencecoursera/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="exPCc08ITgdZZ5tI7rA2ugcfzwscH4SRtpY4XG30rJv5P8ONO05kF6rq6CenaNuGeNOaQHsGjNXttPvmkmJmuw" autocomplete="off" />
-          <input type="hidden" value="6Vk_ylZH3mS5Vz6CsZLN7bGSPtDYot4H0kMzTZ5ALLBrdT40IgH0dEraTe34SiDRzl5rm7-71kOJYfD3YdbmkA" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/mGalarnyk/datasciencecoursera/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CIfqEJ9hnpJMY5wLnppWoXzNemu43BNLO99V592vOAGKq-vu6ye0gr_u72TXQrudAwEvIN_FGw9g_ZZdIjnyIQ" autocomplete="off" />
+          <input type="hidden" value="iqhHXRh3U7KqggMi9We_HLEhnj1y225a-6viHetBpzUIhEajbDF5olkPcE28v1Igzu3LdhXCZh6giSGnFNdtFQ" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="72e0aae68145124048843a2034560033f9047c031b42adc62c9d5fe0a20a2d96" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (2096)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="12cf26d34f67fd0c90eb31339dbbe98ae050024879655141f59c9aaf8ab70277" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (2096)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2023,13 +2023,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-f40a0f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-bf7c13">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-f40a0f"
+        id="filter-menu-bf7c13"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2050,9 +2050,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/mGalarnyk/datasciencecoursera/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JBWSOgIv3QUeyENX0tG2G2CFNZ78YALkgxhZyOnnnZu3mYMlX3BD3XFs0hPqbTO6HLlkpX7_iaIdDhA4reKS-w" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/mGalarnyk/datasciencecoursera/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UCt-dlsk5_dea6S7Jx1ZeQrRTlgpXCQVwtoJH9wHmvrDp29pBnt5LzHPNf8fodzYdu0fY6vDr1NczEDvmAKVmg" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="19b9d3779f033a4f1c8a80671fd2c0fcac0c51a780febd36e474b3c7d20dfeeb" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (2096)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="4f21e6c27dc0d37533715847fe436c07d6caf19f5895b3ea2bab7df5289bf051" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (2096)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2070,13 +2070,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-f40a0f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-bf7c13">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-f40a0f"
+        id="filter-menu-bf7c13"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2263,7 +2263,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mGalarnyk/datasciencecoursera/blob/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mGalarnyk/datasciencecoursera/blob/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/CodeBook.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2271,7 +2271,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="fd5eae24cdb9bed6b4f6dab95a0cbc3f8b9731b45ce4add9eccb73097fea13f3">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="778cdd63ca5044459f5e16471798a55bba1fe0159084f035ced9ee6d7979f4f8">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2352,7 +2352,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/mGalarnyk/datasciencecoursera/blob/{{ urlEncodedRefName }}/3_Getting_and_Cleaning_Data/projects/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/mGalarnyk/datasciencecoursera/blob/{{ urlEncodedRefName }}/3_Getting_and_Cleaning_Data/projects/CodeBook.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2394,7 +2394,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/mGalarnyk/datasciencecoursera/blob/{{ urlEncodedRefName }}/3_Getting_and_Cleaning_Data/projects/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/mGalarnyk/datasciencecoursera/blob/{{ urlEncodedRefName }}/3_Getting_and_Cleaning_Data/projects/CodeBook.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2455,7 +2455,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mGalarnyk/datasciencecoursera"><span>datasciencecoursera</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data"><span>3_Getting_and_Cleaning_Data</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data/projects"><span>projects</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mGalarnyk/datasciencecoursera"><span>datasciencecoursera</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data"><span>3_Getting_and_Cleaning_Data</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data/projects"><span>projects</span></a></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
   </h2>
     <a href="/mGalarnyk/datasciencecoursera/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2466,7 +2466,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="ef6a176178219701e32845eca9ead8a60601405138f87f125f8897f876118f9a" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/mGalarnyk/datasciencecoursera/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="7c53634b636e99f73651f64f3f062c4e87016806569dd18ef38de0013c15b674" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/mGalarnyk/datasciencecoursera/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2478,13 +2478,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="3_Getting_and_Cleaning_Data/projects/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="3_Getting_and_Cleaning_Data/projects/CodeBook.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/mGalarnyk/datasciencecoursera/blob/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/mGalarnyk/datasciencecoursera/blob/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/CodeBook.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2516,17 +2516,80 @@
     <include-fragment src="/mGalarnyk/datasciencecoursera/spoofed_commit_check/2ab7696850bca573bcb63f11697ea23be3ed4ebf" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/mGalarnyk/datasciencecoursera/contributors/master/3_Getting_and_Cleaning_Data/projects/README.md" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/mGalarnyk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mGalarnyk"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/11932986?s=48&amp;v=4" width="24" height="24" alt="@mGalarnyk" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/mGalarnyk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mGalarnyk">mGalarnyk</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="data science coursera" class="Link--secondary" href="/mGalarnyk/datasciencecoursera/commit/c6860be5e015551f9eba5864f0df900a4fb20d69">data science coursera</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/mGalarnyk/datasciencecoursera/commit/c6860be5e015551f9eba5864f0df900a4fb20d69/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/mGalarnyk/datasciencecoursera/commit/c6860be5e015551f9eba5864f0df900a4fb20d69" data-pjax>c6860be</a>
+            <span itemprop="dateModified"><relative-time datetime="2017-02-27T22:19:09Z" class="no-wrap">Feb 28, 2017</relative-time></span>
+          </span>
+
+          <a data-pjax href="/mGalarnyk/datasciencecoursera/commits/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/mGalarnyk/datasciencecoursera/contributors-list/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+</div>
 
 
 
@@ -2550,8 +2613,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}"
-  data-menu-hydro-click-hmac="8a4421a44b21f14aec3dcdfac77b0978b774d37dd09dd617794d594ed1fd6af7"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}"
+  data-menu-hydro-click-hmac="a6603b35eac80911d6119167a566b563dc9b417ce6a6a28a382ae72b695c3d0f"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -2567,14 +2630,30 @@
   <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
 
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="toc-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter headings"
+            aria-label="Filter headings">
+        </div>
 
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="3219d4fa44221980a08de8682b060a0d84dbd2c8ec96e6d4299449dc26a9aec1" href="#getting-and-cleaning-data-project">Getting and Cleaning Data Project</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="3219d4fa44221980a08de8682b060a0d84dbd2c8ec96e6d4299449dc26a9aec1" href="#goal-of-the-project">Goal of the Project</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="3219d4fa44221980a08de8682b060a0d84dbd2c8ec96e6d4299449dc26a9aec1" href="#review-criteria">Review Criteria</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="3219d4fa44221980a08de8682b060a0d84dbd2c8ec96e6d4299449dc26a9aec1" href="#contributors">Contributors</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="3219d4fa44221980a08de8682b060a0d84dbd2c8ec96e6d4299449dc26a9aec1" href="#license">License</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="3219d4fa44221980a08de8682b060a0d84dbd2c8ec96e6d4299449dc26a9aec1" href="#blog-posts-on-the-specialization--john-hopkins-coursera">Blog Posts on the Specialization | John Hopkins Coursera</a>
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#getting-and-cleaning-data-project">Getting and Cleaning Data Project</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#description">Description</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#source-data">Source Data</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#data-set-information">Data Set Information</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#attribute-information">Attribute Information</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#please-see-the-readmemd-for-how-the-following-instructions-are-implemented-readmemd">Please see the README.md for how the following instructions are implemented README.md</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#1-merge-the-training-and-the-test-sets-to-create-one-data-set">1. Merge the training and the test sets to create one data set.</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#2-extracts-only-the-measurements-on-the-mean-and-standard-deviation-for-each-measurement">2. Extracts only the measurements on the mean and standard deviation for each measurement.</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#3-uses-descriptive-activity-names-to-name-the-activities-in-the-data-set">3. Uses descriptive activity names to name the activities in the data set</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#4-appropriately-labels-the-data-set-with-descriptive-variable-names">4. Appropriately labels the data set with descriptive variable names.</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="a42da9399e484d4012f3cb8108c5f9e43638e8aa3488648bb85f2108951ba11e" href="#5-from-the-data-set-in-step-4-creates-a-second-independent-tidy-data-set-with-the-average-of-each-variable-for-each-activity-and-each-subject">5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.</a>
       </div>
     </div>
   </details-menu>
@@ -2583,31 +2662,31 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      39 lines (28 sloc)
+      29 lines (22 sloc)
       <span class="file-info-divider"></span>
-    2.54 KB
+    2.67 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md?plain=1" data-permalink-href="/mGalarnyk/datasciencecoursera/blob/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md?plain=1" data-permalink-href="/mGalarnyk/datasciencecoursera/blob/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/CodeBook.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
-</a>      <a href="/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md" data-permalink-href="/mGalarnyk/datasciencecoursera/blob/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" data-permalink-href="/mGalarnyk/datasciencecoursera/blob/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/CodeBook.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/mGalarnyk/datasciencecoursera/raw/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/README.md" href="/mGalarnyk/datasciencecoursera/raw/master/3_Getting_and_Cleaning_Data/projects/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/mGalarnyk/datasciencecoursera/blame/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/README.md" href="/mGalarnyk/datasciencecoursera/blame/master/3_Getting_and_Cleaning_Data/projects/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/mGalarnyk/datasciencecoursera/raw/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/CodeBook.md" href="/mGalarnyk/datasciencecoursera/raw/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/mGalarnyk/datasciencecoursera/blame/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/CodeBook.md" href="/mGalarnyk/datasciencecoursera/blame/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/mGalarnyk/datasciencecoursera/edit/master/3_Getting_and_Cleaning_Data/projects/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oK0eA-LmHEf__wslJj2P7N7ywCi-wchzp8FkwqeRIXwV0SGebuye-T9AhKqI_ybsKEGUhWqdZm_ljHjtcPoJTw" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/mGalarnyk/datasciencecoursera/edit/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OXlDTAaNvZlmY9X7F8JHjyS67H-A6DAyfNKHZAS_KeoSwXUrCr_VsfOsDWYd9raY_N4oWrR3XEcf9FrVPUdMqA" autocomplete="off" />
       <button title="Edit the file in your fork of this project" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2617,7 +2696,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/mGalarnyk/datasciencecoursera/edit/master/3_Getting_and_Cleaning_Data/projects/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2qK9rc3Qkm-BAh_TfeaSnAbvs82tzSA0RI9w829xWG1v3oIwQdoQ0UG9kFzTJDuc8FznYHmRjigGwmzcuBpwXg" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/mGalarnyk/datasciencecoursera/edit/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dM2Ea_8TzenaqG8ndQ9E1JqVI9x_w0c6mwsOvYixxalfdbIM8yGlwU9nt7p_O7XDQvHn-UtcK0_4LdMMsUmg6w" autocomplete="off" />
               <button title="Edit the file in your fork of this project" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2636,10 +2715,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/mGalarnyk/datasciencecoursera/raw/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/mGalarnyk/datasciencecoursera/raw/2ab7696850bca573bcb63f11697ea23be3ed4ebf/3_Getting_and_Cleaning_Data/projects/CodeBook.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="6cd75545fe8b257ed3c9ca49e3304b5a8f51338d1474cb61bebfc91d731ae47e" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="021b12f376d44b648805e36ac727b80964f3671d384e73d0c9cd5c3d4b27611c" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2664,7 +2743,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/mGalarnyk/datasciencecoursera/delete/master/3_Getting_and_Cleaning_Data/projects/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="16_yFMyUdfpI1T2Onk6gLxbDL2Eq25TskHsemslItaBhk4icNz-tTuHJp4HFTCNM2xvSlkMsx77Gdu3tBRR74w" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/mGalarnyk/datasciencecoursera/delete/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TEIdppWwvu2Jfa9NFtoDVtZEnX2kKQPwrhAR5XmmgUyWcOlZ-uQcZRYOB4gYpvS4AyFW6XHQ8YpEZ_zK2ByXPQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2697,15 +2776,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/mGalarnyk/datasciencecoursera/raw/master/3_Getting_and_Cleaning_Data/projects/README.md">
+            <a class="dropdown-item" href="/mGalarnyk/datasciencecoursera/raw/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/mGalarnyk/datasciencecoursera/raw/master/3_Getting_and_Cleaning_Data/projects/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/mGalarnyk/datasciencecoursera/raw/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="6cd75545fe8b257ed3c9ca49e3304b5a8f51338d1474cb61bebfc91d731ae47e">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:77424533,&quot;originating_url&quot;:&quot;https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md&quot;,&quot;user_id&quot;:79622989}}" data-hydro-click-hmac="021b12f376d44b648805e36ac727b80964f3671d384e73d0c9cd5c3d4b27611c">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2728,20 +2807,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/mGalarnyk/datasciencecoursera/blame/master/3_Getting_and_Cleaning_Data/projects/README.md">
+              <a class="dropdown-item" href="/mGalarnyk/datasciencecoursera/blame/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/mGalarnyk/datasciencecoursera/edit/master/3_Getting_and_Cleaning_Data/projects/README.md">Edit file</a>
+                <a class="dropdown-item" href="/mGalarnyk/datasciencecoursera/edit/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:77424533,&quot;actor_id&quot;:79622989,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/mGalarnyk/datasciencecoursera/delete/master/3_Getting_and_Cleaning_Data/projects/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/mGalarnyk/datasciencecoursera/delete/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2750,82 +2829,30 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-getting-and-cleaning-data-project" class="anchor" aria-hidden="true" href="#getting-and-cleaning-data-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Getting and Cleaning Data Project</h1>
-<p dir="auto">Author: Michael Galarnyk <br>
-Blog Post: <a href="https://medium.com/@GalarnykMichael/review-course-1-the-data-scientists-toolbox-jhu-coursera-4d7459458821#.5jpg133ln" title="Click to go to Repo" rel="nofollow">Getting and Cleaning Data Review</a> <br>
-Data Zip File Location: <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" title="Clicking will download the data" rel="nofollow">UC Irvine Repo</a></p>
-<h2 dir="auto"><a id="user-content-goal-of-the-project" class="anchor" aria-hidden="true" href="#goal-of-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Goal of the Project</h2>
-<ol dir="auto">
-<li>A tidy data set</li>
-<li>A link to a Github repository with your script for performing the analysis</li>
-<li>A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.</li>
-<li>Analysis R Script</li>
-</ol>
-<h2 dir="auto"><a id="user-content-review-criteria" class="anchor" aria-hidden="true" href="#review-criteria"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Review Criteria</h2>
-<table>
-<thead>
-<tr>
-<th>Goal</th>
-<th>Item</th>
-<th>Link to Item</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Analysis R Script</td>
-<td>run_analysis.R</td>
-<td><a href="https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/run_analysis.R" title="run_analysis.R">R Script Link</a></td>
-</tr>
-<tr>
-<td>Tidy Data Set</td>
-<td>Clean Data Set</td>
-<td><a href="https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/data/tidyData.txt" title="tidyData.txt">Data Set Link</a></td>
-</tr>
-<tr>
-<td>Github Repo</td>
-<td>Repo</td>
-<td><a href="https://github.com/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data" title="Click to go to Repo">Repo Link</a></td>
-</tr>
-<tr>
-<td>Cookbook</td>
-<td>CodeBook.md</td>
-<td><a href="https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md" title="CodeBook.md">Repo Link</a></td>
-</tr>
-<tr>
-<td>README</td>
-<td>ReadingItNow</td>
-<td><a href="https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md" title="README.md">Repo Link</a></td>
-</tr>
-</tbody>
-</table>
-<h2 dir="auto"><a id="user-content-contributors" class="anchor" aria-hidden="true" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contributors</h2>
-<table>
-<thead>
-<tr>
-<th>FirstName</th>
-<th>LastName</th>
-<th>Email</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Michael</td>
-<td>Galarnyk</td>
-<td><a href="mailto:mgalarny@gmail.com">mgalarny@gmail.com</a></td>
-</tr>
-<tr>
-<td>Submit</td>
-<td>Pull Request</td>
-<td><a href="mailto:youremailhere@gmail.com">youremailhere@gmail.com</a></td>
-</tr>
-</tbody>
-</table>
-<h2 dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>License</h2>
-<p dir="auto">Anyone may contribute after this assignment is turned in and graded.</p>
-<h2 dir="auto"><a id="user-content-blog-posts-on-the-specialization--john-hopkins-coursera" class="anchor" aria-hidden="true" href="#blog-posts-on-the-specialization--john-hopkins-coursera"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Blog Posts on the Specialization | John Hopkins Coursera</h2>
-<p dir="auto"><a href="https://medium.com/@GalarnykMichael/getting-and-cleaning-data-jhu-coursera-course-3-c3635747858b#.y93kqfa0u" title="Review + data.table" rel="nofollow">Getting and Cleaning Data (JHU Coursera)</a></p>
-<p dir="auto"><a href="https://medium.com/@GalarnykMichael/in-progress-review-course-2-r-programming-jhu-coursera-ad27086d8438#.bzzr29fvo" title="Review + data.table" rel="nofollow">R Programming (JHU Coursera)</a></p>
-<p dir="auto"><a href="https://medium.com/@GalarnykMichael/review-course-1-the-data-scientists-toolbox-jhu-coursera-4d7459458821#.5jpg133ln" title="Review + Going over Parts of Quiz" rel="nofollow">The Data Scientist’s Toolbox (JHU Coursera)</a></p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h2 dir="auto"><a id="user-content-getting-and-cleaning-data-project" class="anchor" aria-hidden="true" href="#getting-and-cleaning-data-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Getting and Cleaning Data Project</h2>
+<p dir="auto">Author: Michael Galarnyk</p>
+<h3 dir="auto"><a id="user-content-description" class="anchor" aria-hidden="true" href="#description"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Description</h3>
+<p dir="auto">Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.</p>
+<h3 dir="auto"><a id="user-content-source-data" class="anchor" aria-hidden="true" href="#source-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Source Data</h3>
+<p dir="auto">Data + Description can be found here <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" rel="nofollow">UCI Machine Learning Repository</a></p>
+<h3 dir="auto"><a id="user-content-data-set-information" class="anchor" aria-hidden="true" href="#data-set-information"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Data Set Information</h3>
+<p dir="auto">The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.</p>
+<p dir="auto">The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.</p>
+<h3 dir="auto"><a id="user-content-attribute-information" class="anchor" aria-hidden="true" href="#attribute-information"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Attribute Information</h3>
+<p dir="auto">For each record in the dataset it is provided:</p>
+<ul dir="auto">
+<li>Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.</li>
+<li>Triaxial Angular velocity from the gyroscope.</li>
+<li>A 561-feature vector with time and frequency domain variables.</li>
+<li>Its activity label.</li>
+<li>An identifier of the subject who carried out the experiment.</li>
+</ul>
+<h2 dir="auto"><a id="user-content-please-see-the-readmemd-for-how-the-following-instructions-are-implemented-readmemd" class="anchor" aria-hidden="true" href="#please-see-the-readmemd-for-how-the-following-instructions-are-implemented-readmemd"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Please see the README.md for how the following instructions are implemented <a href="https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/README.md">README.md</a></h2>
+<h3 dir="auto"><a id="user-content-1-merge-the-training-and-the-test-sets-to-create-one-data-set" class="anchor" aria-hidden="true" href="#1-merge-the-training-and-the-test-sets-to-create-one-data-set"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>1. Merge the training and the test sets to create one data set.</h3>
+<h3 dir="auto"><a id="user-content-2-extracts-only-the-measurements-on-the-mean-and-standard-deviation-for-each-measurement" class="anchor" aria-hidden="true" href="#2-extracts-only-the-measurements-on-the-mean-and-standard-deviation-for-each-measurement"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>2. Extracts only the measurements on the mean and standard deviation for each measurement.</h3>
+<h3 dir="auto"><a id="user-content-3-uses-descriptive-activity-names-to-name-the-activities-in-the-data-set" class="anchor" aria-hidden="true" href="#3-uses-descriptive-activity-names-to-name-the-activities-in-the-data-set"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>3. Uses descriptive activity names to name the activities in the data set</h3>
+<h3 dir="auto"><a id="user-content-4-appropriately-labels-the-data-set-with-descriptive-variable-names" class="anchor" aria-hidden="true" href="#4-appropriately-labels-the-data-set-with-descriptive-variable-names"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>4. Appropriately labels the data set with descriptive variable names.</h3>
+<h3 dir="auto"><a id="user-content-5-from-the-data-set-in-step-4-creates-a-second-independent-tidy-data-set-with-the-average-of-each-variable-for-each-activity-and-each-subject" class="anchor" aria-hidden="true" href="#5-from-the-data-set-in-step-4-creates-a-second-independent-tidy-data-set-with-the-average-of-each-variable-for-each-activity-and-each-subject"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.</h3>
 </article>
   </div>
 
